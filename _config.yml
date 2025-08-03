@@ -18,6 +18,7 @@ exclude:
  - _vender/
  - Gemfile
  - Gemfile.lock
+ - .github
 
 collections:
   tabs:
