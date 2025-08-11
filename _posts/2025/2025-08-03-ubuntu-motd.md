@@ -3,7 +3,7 @@ layout:     post
 title:      "Updating MoTD in Ubuntu"
 date:       2025-08-04 19:58:00 +00:00
 categories: linux ubuntu
-tags:       linux ubuntu motd
+tags:       linux ubuntu motd notes
 ---
 
 This is a small post on cleaning up the motd when you first login to a ubuntu
