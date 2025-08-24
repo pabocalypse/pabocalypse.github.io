@@ -19,6 +19,7 @@ exclude:
  - Gemfile
  - Gemfile.lock
  - .github
+ - justfile
 
 collections:
   tabs:
