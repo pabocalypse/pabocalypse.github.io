@@ -4,3 +4,11 @@ _site
 .jekyll-metadata
 vendor
 _vendor
+
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv

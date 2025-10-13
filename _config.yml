@@ -20,6 +20,11 @@ exclude:
  - Gemfile.lock
  - .github
  - justfile
+ - .devenv
+ - .devenv.flake.nix
+ - devenv.lock
+ - devenv.nix
+ - devenv.yaml
 
 collections:
   tabs:
