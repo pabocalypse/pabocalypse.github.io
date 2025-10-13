@@ -4,7 +4,7 @@ gem "jekyll", "~> 4.4.1"
 
 # Themes
 # gem "minima", "~> 2.5"  # Default Theme
-gem "jekyll-theme-chirpy", "~> 7.0.1"
+gem "jekyll-theme-chirpy", "~> 7.3.1"
 
 group :jekyll_plugins do
   # gem "jekyll-feed", "~> 0.12"
