@@ -2,6 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4.1"
 
+# Logger got removed.
+gem "logger"
+
 # Themes
 # gem "minima", "~> 2.5"  # Default Theme
 gem "jekyll-theme-chirpy", "~> 7.3.1"
